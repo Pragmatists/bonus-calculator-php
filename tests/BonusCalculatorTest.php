@@ -3,7 +3,7 @@
 namespace tests;
 use PHPUnit\Framework\TestCase;
 
-class FizzBuzzTest extends TestCase
+class BonusCalculatorTest extends TestCase
 {
 
     public function test___START_HERE() {
